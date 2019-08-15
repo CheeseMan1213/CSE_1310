@@ -1,0 +1,15 @@
+fine arts elective
+ENGL 1301
+ENGL 1302
+literature
+#I have speech but still need Tech writing
+POLS 2311
+POLS 2312
+HIST 1311
+#for now skip Pre-cal 1 and 2 and ColAlg
+CSE 1104
+CSE 1105
+CSE 1310
+MATH 1426
+MATH 2425
+MATH 1323

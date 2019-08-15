@@ -1,0 +1,44 @@
+# courses required for BS Computer Science, 2012-2013 catalog
+# course,category,prerequisites,notes
+ENGL 1301,preprofessional,,
+ENGL 1302,preprofessional,,
+MATH 1426,preprofessional,MATH 1323,
+MATH 2425,preprofessional,MATH 1426,
+PHYS 1443,preprofessional,MATH 1426,
+PHYS 1444,preprofessional,PHYS 1443|MATH 2425,
+CSE 1104,preprofessional,,
+CSE 1105,preprofessional,,
+CSE 1320,preprofessional,CSE 1104|CSE 1105|CSE 1310|MATH 1323,
+CSE 1325,preprofessional,CSE 1320,
+CSE 2312,preprofessional,CSE 1320,
+CSE 2315,preprofessional,CSE 1310|MATH 1426,
+CSE 2320,preprofessional,CSE 1320|CSE 2315,
+literature,general education,,note: see approved list
+COMS 2302,general education,ENGL 1302,
+fine arts elective,general education,,note: see approved list
+HIST 1311,general education,,
+HIST 1312,general education,,
+POLS 2311,general education,,
+POLS 2312,general education,,
+social-cultural elective,general education,,note: see approved list
+CSE 3302,professional,CSE 1325|CSE 2320,
+CSE 3310,professional,CSE 1325|CSE 2315,
+CSE 3315,professional,CSE 2315,
+CSE 3320,professional,CSE 2312|IE 3301,
+CSE 3330,professional,CSE 1325|CSE 2320,
+CSE 3380,professional,CSE 2315,note: MATH 3330 can be taken instead
+CSE 4314,professional,COMS 2302,
+CSE 4316,professional,CSE 3310|CSE 3320,
+CSE 4317,professional,CSE 4316,
+# 4000-level CSE courses require admission to the professional program
+# CSE and technical electives list CSE 2320 as a prereq so that these courses don't
+#   show up except when the student is likely to be in the professional program
+CSE elective,professional,CSE 2320,note: one of CSE 4303|CSE 4305|CSE 4308
+IE 3301,professional,MATH 2425,
+IE 3312,professional,MATH 1426,
+science elective,professional,,note: see approved list
+technical elective 1,professional,CSE 2320,note: see approved list
+technical elective 2,professional,CSE 2320,note: see approved list
+technical elective 3,professional,CSE 2320,note: see approved list
+technical elective 4,professional,CSE 2320,note: see approved list
+technical elective 5,professional,CSE 2320,note: see approved list
